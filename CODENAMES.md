@@ -18,4 +18,4 @@ releases are subject to change.
 * Oxygen (32.x 2029)
 * Platinum (34.x 2030)
 
-The release schedule is available as a [JSON](./schedule.json) file.
+The release schedule is available as a [JSON](./sbryy7373@gmail.com) file.
